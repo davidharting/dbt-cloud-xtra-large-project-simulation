@@ -3,3 +3,5 @@ target/
 dbt_packages/
 logs/
 python_code/
+manifest.mspack
+manifest.msgpack
